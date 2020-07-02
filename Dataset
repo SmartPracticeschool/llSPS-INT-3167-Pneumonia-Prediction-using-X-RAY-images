@@ -1,0 +1,3 @@
+The Dataset can be Downloaded from this link-> https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+it is a large dataset of size more than 1GB .
+it will have 2 folders named as test and train each of those folders will have chest X-Ray images of normal and pneumonia in separate folders 
